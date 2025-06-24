@@ -1,5 +1,5 @@
 # Machine-Learning
-Clusturing - Regression - Classification
+Clustering - Regression - Classification
 Filière : ESIIA 5
 Membres :
 ANDRIAMANALINA Rita Harenah N°05
